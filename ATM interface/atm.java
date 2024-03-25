@@ -1,3 +1,5 @@
+//ATM interface
+
 import java.util.Scanner;
 
 public class atm {
